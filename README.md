@@ -78,7 +78,7 @@ research-oriented projects that address real-world problems.
 
 ## 🚀 Featured Projects
 
-### 🤖 Automated Resume Filtering through AI
+### 🤖 Automated Resume Screening through AI
 
 An AI-powered resume screening and candidate ranking system using NLP,
 TF-IDF, semantic embeddings, and machine learning techniques.
@@ -92,7 +92,7 @@ TF-IDF, semantic embeddings, and machine learning techniques.
 - Explainable scoring
 - LLM-based analysis
 
-🔗 [View Project](#)
+🔗 [View Project](https://lnkd.in/p/gEdpWHrS)
 
 ---
 
@@ -170,10 +170,10 @@ I am interested in connecting with researchers, academics, developers,
 and professionals working in Artificial Intelligence and related fields.
 
 <p align="left">
-  <a href="https://www.linkedin.com/">
+  <a href="https://www.linkedin.com/in/shifat-ahmed-854907362/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
   </a>
-  <a href="mailto:your-email@example.com">
+  <a href="mailto:supriyoah1112@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail" />
   </a>
 </p>
