@@ -1,16 +1,185 @@
-## Hi there 👋
+# Hi, I'm Md. Shifat Ahmed 👋
 
-<!--
-**shifat1112/shifat1112** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### AI/ML Researcher | CSE Graduate | Aspiring Graduate Researcher
 
-Here are some ideas to get you started:
+<p align="left">
+  <a href="www.linkedin.com/in/shifat-ahmed-854907362">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
+  </a>
+  <a href="mailto: supriyoah1112@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail" />
+  </a>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 👨‍💻 About Me
+
+I am a Computer Science and Engineering graduate with a strong interest in
+Artificial Intelligence, Machine Learning, Natural Language Processing, and
+Intelligent Systems.
+
+My interests focus on developing practical AI solutions and conducting
+research-oriented projects that address real-world problems.
+
+- 🎓 B.Sc. in Computer Science & Engineering
+- 🤖 Interested in AI, Machine Learning & NLP
+- 🔬 Research-oriented and passionate about intelligent systems
+- 📚 Interested in graduate research and advanced study
+- 💡 Enjoy building practical, data-driven solutions
+- 🌱 Continuously learning and exploring emerging AI technologies
+
+---
+
+## 🔬 Research Interests
+
+- Artificial Intelligence
+- Machine Learning
+- Natural Language Processing
+- Large Language Models
+- Generative AI
+- Explainable AI
+- Intelligent Recruitment Systems
+- AI for Healthcare
+- Data-Driven Decision Making
+
+---
+
+## 🛠️ Technical Skills
+
+### Programming & Data
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</p>
+
+### AI / Machine Learning
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/>
+</p>
+
+### NLP & Generative AI
+
+<p align="left">
+  <img src="https://img.shields.io/badge/NLP-412991?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/BERT-000000?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/LLMs-5C3EE8?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Generative%20AI-8A2BE2?style=for-the-badge"/>
+</p>
+
+---
+
+## 🚀 Featured Projects
+
+### 🤖 Automated Resume Filtering through AI
+
+An AI-powered resume screening and candidate ranking system using NLP,
+TF-IDF, semantic embeddings, and machine learning techniques.
+
+**Key areas:**
+- Resume information extraction
+- Skill and job-category matching
+- TF-IDF & cosine similarity
+- Semantic embeddings
+- Candidate ranking
+- Explainable scoring
+- LLM-based analysis
+
+🔗 [View Project](#)
+
+---
+
+### 🧠 Depression Detection Using Machine Learning
+
+A machine learning research project using the PHQ-9 questionnaire and
+additional lifestyle and demographic factors to analyze depression severity.
+
+**Key areas:**
+- PHQ-9 based data
+- Feature engineering
+- Classification
+- Logistic Regression
+- Random Forest
+- Model evaluation
+- Confusion matrix & performance analysis
+
+🔗 [View Project](#)
+
+---
+
+### 💬 Emotion-Based Recommendation System
+
+An NLP-based system designed to identify emotional context from text and
+generate appropriate recommendations.
+
+**Key areas:**
+- Natural Language Processing
+- Text classification
+- Emotion detection
+- Recommendation systems
+
+🔗 [View Project](#)
+
+---
+
+## 📊 GitHub Statistics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=shifat1112&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shifat1112&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+## 📈 Contribution Activity
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shifat1112&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+## 🎓 Education
+
+**Bachelor of Science in Computer Science & Engineering**  
+Daffodil International University
+
+---
+
+## 🌱 Currently Exploring
+
+- Large Language Models
+- Generative AI
+- Advanced NLP
+- Explainable AI
+- Research Methodology
+- AI-driven Intelligent Systems
+
+---
+
+## 🤝 Let's Connect
+
+I am interested in connecting with researchers, academics, developers,
+and professionals working in Artificial Intelligence and related fields.
+
+<p align="left">
+  <a href="https://www.linkedin.com/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
+  </a>
+  <a href="mailto:your-email@example.com">
+    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail" />
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <i>Building intelligent solutions through research, learning, and experimentation.</i>
+</p>
