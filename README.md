@@ -152,14 +152,6 @@ A hybrid recommendation engine integrating Natural Language Processing and machi
 
 ---
 
-## 📊 GitHub Statistics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shifat1112&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shifat1112&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400" />
-</p>
----
-
 ## 📈 Contribution Activity
 
 <p align="center">
