@@ -92,7 +92,7 @@ TF-IDF, semantic embeddings, and machine learning techniques.
 - Explainable scoring
 - LLM-based analysis
 
-🔗 [View Project](https://lnkd.in/p/gEdpWHrS)
+🔗 [View Project]([https://lnkd.in/p/gEdpWHrS](https://github.com/shifat1112/AI-Resume-Screening))
 
 ---
 
@@ -110,32 +110,54 @@ additional lifestyle and demographic factors to analyze depression severity.
 - Model evaluation
 - Confusion matrix & performance analysis
 
-🔗 [View Project](#)
+🔗 [View Project](https://github.com/shifat1112/Depression-Detection-PHQ9)
 
 ---
 
-### 💬 Emotion-Based Recommendation System
+### ❤️ Heart Disease Detection Using Machine Learning
 
-An NLP-based system designed to identify emotional context from text and
-generate appropriate recommendations.
+A machine learning-based heart disease detection system using clinical,
+demographic, behavioral, and lifestyle-related health features.
+
+**Key areas:**
+- Health data preprocessing
+- Feature selection
+- Multiple machine learning models
+- XGBoost, Random Forest & Decision Tree
+- SVM, Naive Bayes & MLP
+- Model performance comparison
+- SHAP-based interpretability
+- ROC-AUC & precision-recall analysis
+- Ensemble learning
+- Probability calibration
+
+🔗 [View Project](https://github.com/shifat1112/Heart-Disease-Detection)
+
+---
+
+### 💬 Emotion-Aware Book Recommender
+
+A hybrid recommendation engine integrating Natural Language Processing and machine learning to suggest books based on users' emotional resonance and preferred genres.
 
 **Key areas:**
 - Natural Language Processing
-- Text classification
+- Emotion & sentiment classification
+- Imbalanced data handling (ADASYN)
+- Classical ML (SVM, Random Forest)
+- Transformer evaluation (BERTweet, XLM-R)
 - Emotion detection
 - Recommendation systems
 
-🔗 [View Project](#)
+🔗 [View Project](https://github.com/shifat1112/emotion-aware-book-recommendation)
 
 ---
 
 ## 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shifat1112&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shifat1112&layout=compact&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=shifat1112&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shifat1112&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400" />
 </p>
-
 ---
 
 ## 📈 Contribution Activity
