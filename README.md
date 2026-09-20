@@ -3,10 +3,10 @@
 ### AI/ML Researcher | CSE Graduate | Aspiring Graduate Researcher
 
 <p align="left">
-  <a href="www.linkedin.com/in/shifat-ahmed-854907362">
+  <a href="https://www.linkedin.com/in/shifat-ahmed-854907362/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
   </a>
-  <a href="mailto: supriyoah1112@gmail.com">
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=ahmed15-5214@diu.edu.bd" target="_blank">
     <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail" />
   </a>
 </p>
@@ -195,7 +195,7 @@ and professionals working in Artificial Intelligence and related fields.
   <a href="https://www.linkedin.com/in/shifat-ahmed-854907362/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
   </a>
-  <a href="mailto:supriyoah1112@gmail.com">
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=ahmed15-5214@diu.edu.bd" target="_blank">
     <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail" />
   </a>
 </p>
