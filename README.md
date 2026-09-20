@@ -92,7 +92,7 @@ TF-IDF, semantic embeddings, and machine learning techniques.
 - Explainable scoring
 - LLM-based analysis
 
-🔗 [View Project]([https://lnkd.in/p/gEdpWHrS](https://github.com/shifat1112/AI-Resume-Screening))
+🔗 [View Project](https://github.com/shifat1112/AI-Resume-Screening)
 
 ---
 
